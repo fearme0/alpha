@@ -1,0 +1,4 @@
+start:start
+lol:lol
+shutdown:quit
+say:print
